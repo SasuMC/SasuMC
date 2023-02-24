@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi everyone!
+
+- I’m currently learning Java [ **ENTRY DEV**  ] ✨
+
+- I'm making Plugins on Spigot & Paper [ Privates, in a future maybe Public 🤔 ] 
+
+- You can find me in Discord [! Sasu#6737] & Twitter [@PublicSasu] 📫
+
 
 <!--
 **SasuMC/SasuMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
