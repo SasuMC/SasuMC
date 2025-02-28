@@ -2,4 +2,4 @@
 
 - I’m currently learning Java [ **JUNIOR DEV**  ] ✨
 
-- I'm making Plugins on Spigot & Paper, and Mods on Fabric! [ Privates, in a future maybe Public 🤔 ]
+- I make Plugins on Spigot & Paper, and Mods on Fabric! [ Privates, in a future maybe Public 🤔 ]
